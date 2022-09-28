@@ -1,4 +1,4 @@
-#include "lists.h"
+#include "list.h"
 
 /**
  * check_cycle - checks if a linked list contains a cycle
